@@ -7,6 +7,15 @@
 <-- html주석은 화살표 -->
 <script>
 // 변수와 함수
-// vqriable and function
+// variable and function
+var a;
+var b;
+a = 10
+b = 15
+var c = a + b;
+console.log(c);
+console.log(a+b);
+console.log(10+15);
+
 </script>
 </body>
